@@ -1,1 +1,13 @@
 
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "echo \"Add a build tool or open this project in Codespaces or locally to start the dev server\""
+  }
+}
